@@ -1,15 +1,27 @@
 # MiniAlexa
+Commands and Keywords
+Operating Code
+The following keywords are used to operate the virtual assistant:
 
-It is the AI based virtual assistant to do things in more easier way for user.
-It includes different kind of commands to operate the alexa.
+'WIKIPEDIA': Fetch information about:
+Opening YouTube
+Opening Google
+Opening different websites like Instagram, GitHub, etc.
+Location Command: Obtain the location of a specified place on the map.
+'Joke': Delight the user with a joke using the pyjokes library.
+'Bye', 'Tata': Stop the virtual assistant's operation and exit the system.
+Internet Connectivity
+If a command is not recognized, the virtual assistant seamlessly connects to the internet to provide the required results.
 
-__________Following Keywords in the commands are use to operate code_________
+Usage
+Simply input one of the specified commands to trigger the corresponding action. The virtual assistant is designed to enhance user interactions with a variety of functions.
 
-'WIKIPEDIA'  Is a command to get the information about following:
-   Open YouTube, Open Google, Open different websites like instagram,GitHub,etc. 
-  Where is gives the location of the place on map.
-  'Joke' can tell u jokes using library pyjokes.
-  Bye,Tata command stops the working of alexa and system exists.
-  
-  If the given command doesn't exist in above code then it directly connects to internet and gives the required result.
+Compatibility
+The virtual assistant is equipped to handle common tasks and queries, ensuring a user-friendly and efficient experience.
+
+How to Run
+Clone the repository.
+Execute the main script to activate the virtual assistant.
+Issue commands based on the provided keywords.
+Feel free to explore, contribute, and enhance the capabilities of this AI-based virtual assistant!
   
